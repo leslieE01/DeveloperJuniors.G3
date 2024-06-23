@@ -1,0 +1,195 @@
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 10\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 11\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS 14002\Semana 12\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.dll
+D:\Equipo\Downloads\temp\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+D:\DIARS\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.deps.json
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Repositories.pdb
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Persistence.pdb
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\bin\Debug\net8.0\Developers.Utilities.pdb
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Develope.CD8F539C.Up2Date
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\refint\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\Developers.Repositories.pdb
+C:\DISEÑO Y ARQUITECTURA\profe4\DeveloperJuniors\Developers.Repositories\obj\Debug\net8.0\ref\Developers.Repositories.dll

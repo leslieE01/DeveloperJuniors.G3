@@ -1,0 +1,43 @@
+﻿@model Developers.Models.Course
+@{
+    ViewData["Title"] = "Crear curso";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Nuevo Curso</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Courses" asp-action="Create" method="post">
+                    <div class="form-group mb-2">
+                        <label class="form-label">Nombre</label>
+                        <input class="form-control" asp-for="Name" placeholder="Ingrese nombre de curso" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Descripción</label>
+                        <input class="form-control" asp-for="Description" placeholder="Ingrese Descripción" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-2">
+                        <label class="form-label">Duración</label>
+                        <input class="form-control" asp-for="Hours" placeholder="Ingrese Nombres" />
+                        <span asp-validation-for="Hours" class="text-danger"></span>
+                    </div>
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-floppy"></i>&nbsp; Guardar
+                        </button>
+                        <a asp-controller="Courses" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
